@@ -8,6 +8,15 @@ Este projeto é uma simulação de uma loja de tênis mobile utilizada para estu
 
 
 # Home
+![Home](screenshots/Screenshot_1.png?raw=true "Home")
+
+# Details
+![Carrinho](screenshots/Screenshot_2.png?raw=true "Home")
+
+![Details](screenshots/Screenshot_3.png?raw=true "Home")
+
+
+
 	
 
 
